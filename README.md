@@ -60,8 +60,14 @@ This project covers the implementation and application of the following algorith
 By completing this assignment, the following objectives are achieved:
 
 ✅ Understanding and formulating problems as **Constraint Satisfaction Problems (CSPs)**.
+</br>
 ✅ Implementing **Backtracking Search** for solving CSPs.
+</br>
 ✅ Applying heuristics like **MRV** and **LCV** to optimize search.
+</br>
 ✅ Using **AC-3** for constraint propagation.
+</br>
 ✅ Solving complex **Cryptarithmetic Puzzles**.
+</br>
 ✅ Implementing **Adversarial Search Algorithms** (Minimax, Alpha-Beta, Expectimax) for a 2-player game.
+
