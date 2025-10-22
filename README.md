@@ -1,10 +1,9 @@
-# <div align="center">
-# <img src="https://cdn.freebiesupply.com/logos/large/2x/sharif-logo-png-transparent.png" width=150 height=150>
-# <br>
-# <font color=0F5298>
-# Artificial Intelligence - Practical Assignment
-# </font>
-# </div>
+<div align="center">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/sharif-logo-png-transparent.png" width=150 height=150>
+  <font color=0F5298>
+    <h2>Artificial Intelligence - Practical Assignment</h2>
+  </font>
+</div>
 
 ### 📌 **AI Problem Solving: CSP, Cryptarithmetic & Adversarial Search**
 
